@@ -1,7 +1,5 @@
 #pragma once
 
-#define PRODUCT         ak61 rev.satan
-
 /* key matrix size */
 #define MATRIX_ROWS 5
 #define MATRIX_COLS 14

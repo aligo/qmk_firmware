@@ -8,6 +8,7 @@
 #define PRODUCT_ID      0x6060
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    aligo
+#define PRODUCT         AK61
 #define DESCRIPTION     aligo 61 keyboard
 
 #endif

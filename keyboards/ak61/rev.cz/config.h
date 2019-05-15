@@ -1,7 +1,5 @@
 #pragma once
 
-#define PRODUCT         ak61 rev.cz
-
 /* key matrix size */
 #define MATRIX_ROWS 5
 #define MATRIX_COLS 15
@@ -31,11 +29,9 @@
 
 
 #define RGB_DI_PIN F6
-#ifdef RGB_DI_PIN
 #define RGBLIGHT_ANIMATIONS
 #define RGBLED_NUM 77
 #define RGBLIGHT_HUE_STEP 8
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
 #define RGBLIGHT_LIMIT_VAL 100
-#endif
